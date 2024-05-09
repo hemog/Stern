@@ -1,4 +1,4 @@
-# Project for Engineering Project
+# Project for Engineering Project Lecture
 
 Original Released by Ali Bilal Arı for python3:
 
